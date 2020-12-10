@@ -48,7 +48,7 @@ Then to get started with this project, you just need to clone or download this r
 
 1. Clone the repo
 ```sh
-git clone https://github.com/amit08255/nextjs-passport.git
+git clone https://github.com/amit08255/reactjs-nextjs-session.git
 ```
 2. Install NPM packages
 ```sh
@@ -101,5 +101,5 @@ Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
 Amit Kumar - amitcute3@gmail.com
 
-Project Link: [https://github.com/amit08255/nextjs-passport](https://github.com/amit08255/nextjs-passport)
+Project Link: [https://github.com/amit08255/reactjs-nextjs-session](https://github.com/amit08255/reactjs-nextjs-session)
 
